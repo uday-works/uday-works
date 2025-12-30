@@ -52,19 +52,7 @@ Focused on clarity, usability, and shipping things that actually work.
 - Clear scope, clear pricing, no surprises  
 - No fake promises, no “AI magic” claims  
 - Deliver → deploy → document
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayworkspace&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayworkspace&layout=compact" />
-</p>
-
+  
 ---
 
 ## 📬 Contact
