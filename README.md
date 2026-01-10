@@ -57,6 +57,6 @@ Focused on clarity, usability, and shipping things that actually work.
 
 ## 📬 Contact
 
-- Email: **uday.codespace@gmail.com**
+- Email: **udayworksoffical@gmail.com**
 - GitHub: **uday-work**
 
