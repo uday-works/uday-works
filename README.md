@@ -12,5 +12,7 @@ As a mentor, I help engineers strengthen **core Computer Science fundamentals**,
 I work best with people who value **clarity, ownership, and engineering discipline** over shortcuts.
 
 **Selected work:** see pinned repositories
+
 **More work & portfolio:** [https://sri-vasavi-digital-service.vercel.app/](https://sri-vasavi-digital-service.vercel.app/)
+
 **Engagements & bookings:** [udayworksoffical@gmail.com](mailto:udayworksoffical@gmail.com)
