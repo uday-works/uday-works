@@ -1,62 +1,90 @@
-<h1 align="center">Hi, I'm Somapuram Uday 👋</h1>
+# Somapuram Uday  
+### Tech Lead & Developer — Sri Vasavi Digital Service
 
-<h3 align="center">
-Final-year CS student • Freelance Web Developer • AI/ML Learner  
-</h3>
+I work as a **Tech Lead & Developer** under  
+**Sri Vasavi Digital Service**  
+https://sri-vasavi-digital-service.vercel.app/
 
-<p align="center">
-I build clean, practical websites and experiment with AI/ML to solve real problems.
-Focused on clarity, usability, and shipping things that actually work.
-</p>
+My role spans **full-stack engineering, applied AI logic, and technical mentorship**, delivering systems that are structured, documented, and built for real use — not demos.
 
 ---
 
-## 🧠 What I Do
+## Role & Responsibilities
 
-- Build **simple, fast websites** using HTML, CSS, and JavaScript  
-- Deploy projects using **GitHub Pages & Docker**
-- Work with **Python for data analysis & ML basics**
-- Learn by building — not by collecting buzzwords
+As a lead developer, I am responsible for:
 
----
+- Designing and delivering **full-stack web solutions** end-to-end  
+- Translating business and academic requirements into **production-ready systems**
+- Implementing **AI / data logic** where it adds real value  
+- Reviewing architecture, code quality, and deployment readiness  
+- Mentoring students and junior developers on **core CS and engineering discipline**
 
-## 🛠 Tech Stack (What I Actually Use)
-
-**Frontend**
-- HTML, CSS, JavaScript  
-- Responsive layouts, SPA-style pages
-
-**Backend / Data**
-- Python  
-- Pandas, NumPy  
-- scikit-learn (basics)
-
-**Tools**
-- Git & GitHub  
-- Docker  
-- Linux  
-- Postman
+This account reflects **work delivered under real constraints**, timelines, and expectations.
 
 ---
 
-## 🚀 Current Focus
+## Engineering Focus
 
-- Freelance web projects (clean UI, clear content, real users)
-- Strengthening ML fundamentals through hands-on projects
-- Improving deployment, performance, and code quality
+### Web & Application Development
+- Frontend systems using **React and Angular**
+- Backend development with **Python, Spring Boot, and .NET**
+- REST APIs, authentication flows, and system integration
+- Deployment-ready builds with clear documentation
+
+### Data & AI
+- Data science workflows using real datasets
+- Machine learning logic integrated into applications
+- Emphasis on evaluation, explainability, and correctness
+
+### Computer Science & Systems
+- Databases and SQL design
+- Linux-based development environments
+- Debugging, version control, and system hygiene
+- Final-year and academic projects built with industry discipline
 
 ---
 
-## 📂 How I Work
+## How I Work
 
-- Clear scope, clear pricing, no surprises  
-- No fake promises, no “AI magic” claims  
-- Deliver → deploy → document
-  
+- Clear scope and ownership  
+- Documentation as part of delivery  
+- No exaggerated claims or shortcuts  
+- Systems designed to be understood and maintained  
+
+I prioritize **clarity over noise** and **proof over promises**.
+
 ---
 
-## 📬 Contact
+## What You’ll Find Here
 
-- Email: **udayworksoffical@gmail.com**
-- GitHub: **uday-work**
+- Large, structured personal and client-oriented projects  
+- Academic and mentoring repositories built professionally  
+- Archived work retained only when it adds technical context  
 
+Each repository is organized so others can:
+- understand the problem  
+- follow the design decisions  
+- reuse or extend the solution  
+
+---
+
+## Professional Association
+
+**Sri Vasavi Digital Service**  
+Full-stack development, digital solutions, and technical guidance  
+https://sri-vasavi-digital-service.vercel.app/
+
+I contribute as a **lead engineer**, not as a one-off contractor.
+
+---
+
+## Contact
+
+Email: **udayworksoffical@gmail.com**  
+GitHub: **uday-works**  
+Instagram: **udayworks**
+
+---
+
+This profile represents **responsibility, delivery, and long-term thinking**.  
+Selected work is pinned below.
